@@ -11,6 +11,10 @@ A simple and stylish To-Do List web application built with HTML, CSS, and JavaSc
 - Persistent storage using localStorage
 - Responsive and modern UI
 
+## Screenshots
+
+![App Screenshot](images/Screenshot%202025-09-02%20084722.png)
+
 ## Getting Started
 
 ### Prerequisites
