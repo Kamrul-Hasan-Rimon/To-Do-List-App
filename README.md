@@ -2,6 +2,10 @@
 
 A simple and stylish To-Do List web application built with HTML, CSS, and JavaScript. Easily add, check off, and delete tasks. Your tasks are saved in your browser's local storage, so you won't lose them when you refresh the page.
 
+## Live Demo
+
+[View the To-Do List App Live](https://celebrated-panda-f32610.netlify.app)
+
 ## Features
 
 - Add new tasks
